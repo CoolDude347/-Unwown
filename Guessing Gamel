@@ -1,0 +1,64 @@
+{
+}
+}
+{
+}
+{
+}
+}
+}
+}
+{
+{
+}
+
+
+
+
+
+namespace NumberGussingGame
+[
+class program
+
+static void Main(string[] arga)
+{
+Randome r = new Random();
+
+int winNum = r.Next(0, 100);
+
+bool win = false;
+
+do
+{
+Console.write("Guess a number inbetween 0 and 100: ");
+string s = Console.readLine () ;
+
+int i int.parse (s) ;
+
+if (i > winNum
+
+Console.Write.Line (" To high! Guess lower... ");
+
+else if (i < winNum)
+
+Console.WriteLine ("Go Low! Guess Higher...useing System;
+system.Collection.Generic;
+useing System.Linq;
+useing System.Text;
+useing System.Threading.Tasks;
+
+namespace NumberGussingGame
+[
+class program
+
+static void Main(string[] arga)
+{
+Randome r = new Random();
+
+int winNum = r.Next(0, 100);
+
+bool win = false;
+
+do
+{
+Console.write("Guess a number 
